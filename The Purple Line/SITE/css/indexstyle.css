@@ -1,0 +1,77 @@
+
+div {
+  background-color: #F2DEBA;
+  border: solid;
+  border-color: black;
+  border-style: groove;
+  padding: 5px;
+  margin: 5px;
+
+}
+
+body {
+  margin: 0;
+  background-color: #FFEFD6;
+  /*FFAF9B*/
+  font-family: cursive;
+  font-size: 1rem;
+
+}
+
+h1 {
+  color: #0E5E6F;
+  font-size: 3.625rem;
+  margin: auto;
+  margin-top: 10px;
+  width: 50%;
+  font-family: Inter;
+
+}
+
+/* #008891
+  #00587A
+*/
+
+p {
+  font-size: 1.4375rem;
+}
+
+.jottedNotes {
+  padding: 15px;
+  margin: 5px;
+}
+
+.HCIimg {
+  position: absolute;
+  right: 30px;
+  border: solid;
+  border-width: 2px;
+  border-color: #0E5E6F;
+
+
+}
+
+.indextable {
+  position: absolute;
+  width: 100%;
+  height: 30rem;
+  margin: 10px;
+  text-align: center;
+  border-collapse: collapse;
+  margin-top: 80px;
+}
+
+.MAPimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  /*
+  top: 0;
+  position: sticky;
+  */
+}
+
+.MAPimg:hover {
+  transform: scale(1.5);
+}
